@@ -1,0 +1,2 @@
+docker build -t chrispinchaguza/virallc:latest --no-cache .
+docker push chrispinchaguza/virallc:latest
