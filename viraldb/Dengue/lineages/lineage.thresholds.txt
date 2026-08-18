@@ -1,1 +1,4 @@
-Norovirus	85
+DENV-1	90
+DENV-2	90
+DENV-3	90
+DENV-4	90
