@@ -21,7 +21,7 @@ conda install -c bioconda virallc
 ```
 pip install virallc
 ```
-After installing virallc using Pip, remember to install these dependencies (mafft, blast, and nextclade) manually.
+After installing virallc using Pip, remember to install these dependencies (mafft, blast, and nextclade) manually. To avoid errors, install mafft version >=7.526.
 
 ## Basic usage
 
